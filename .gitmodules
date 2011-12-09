@@ -1,9 +1,0 @@
-[submodule "vendors/documentcloud/backbone"]
-	path = vendors/documentcloud/backbone
-	url = https://github.com/documentcloud/backbone.git
-[submodule "vendors/documentcloud/underscore"]
-	path = vendors/documentcloud/underscore
-	url = https://github.com/documentcloud/underscore.git
-[submodule "vendors/mrdoob/three.js"]
-	path = vendors/mrdoob/three.js
-	url = https://github.com/mrdoob/three.js.git
